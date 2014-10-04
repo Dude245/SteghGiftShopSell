@@ -1,0 +1,66 @@
+Click Commands -> Add
+Type:
+129312
+The life of joe dirt
+
+
+2009
+Should result with a valid entry.
+Result:
+Succesful Book addition 
+
+Change "type" to journal should remove publisher.
+Type in:
+12321453
+Dirty Joes Journal
+
+2013
+Should result in:
+Succesful Journal addition 
+Result:
+Succesful Journal addition 
+
+Click Commands->Search
+Should display search widow.
+Type in:
+
+Joe
+
+
+Should result in finding all refrences with "Joe" or "JOE"
+Result:
+
+Searching....
+
+Type: Book
+Call Number: 129312
+Authors: N/A
+Title : The life of joe dirt
+Publisher: N/A
+Year: 2009
+
+
+
+Commands -> Display
+Should output:
+Type: Book
+Call Number: 129312
+Authors: N/A
+Title : The life of joe dirt
+Publisher: N/A
+Year: 2009
+
+Type: Journal
+Call Number: 12321453
+Title : Dirty Joes Journal
+Orginization: N/A
+Year: 2013
+
+Commands -> Save and exit
+Expected: Save arraylist to file specified or /data/Database.txt
+
+Command ->Exit
+Expected: Quit the Program
+
+
+

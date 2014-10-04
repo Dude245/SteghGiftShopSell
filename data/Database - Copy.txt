@@ -1,0 +1,21 @@
+[Entry]
+Type=Book
+BarCode=843163067264
+Title=Rogers Phone
+Quantity=1
+Price=699
+
+[Entry]
+Type=Book
+BarCode=2UA2350CV9
+Title=PC
+Quantity=1
+Price=800
+
+[Entry]
+Type=Book
+BarCode=067103289466
+Title=Lantern
+Quantity=1
+Price=1495
+
